@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+
+ img{
+    width: 100px;
+    height: 100px;
+}
+
+video{
+    width: 600px;
+    height: 300px;
+}
